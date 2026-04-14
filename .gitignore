@@ -1,0 +1,35 @@
+# Node dependencies
+node_modules/
+**/node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Environment variables
+.env
+.env.*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Build output
+dist/
+build/
+
+# VS Code
+.vscode/
+
+# macOS
+.AppleDouble
+.LSOverride
+
+# IDE files
+.idea/
+
+# Misc
+npm-debug.log*
+yarn-debug.log*
