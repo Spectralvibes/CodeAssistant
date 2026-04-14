@@ -1,0 +1,6 @@
+{
+    "model_profile": "balanced",
+    "commit_docs": true,
+    "research": true,
+    "planning_root": ".github"
+}
